@@ -1,0 +1,9 @@
+Para utilizar esta aplicalão é necessário utilizar o mysql
+
+mysql -u root -p
+pass: 1234
+
+
+criar um database com nome: portal_noticias
+
+criar uma tabela chamada noticias
